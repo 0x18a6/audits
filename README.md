@@ -1,4 +1,6 @@
-Security researcher with multiple top place finishes in competitive audits:
+I'm a security researcher with multiple top place finishes in competitive audits:
+
+![](e92be0b9-b4f2-4bf2-9544-ae285fcfc02d-badge.png)
 
 | Competition                      | Place      | Findings | Tags | Leaderboard                                                                                     |
 |----------------------------------|------------|----------|------|-------------------------------------------------------------------------------------------------|
